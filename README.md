@@ -1,8 +1,2 @@
-# Portfolio
-# Portfolio
-# Portfolio
-# Portfolio
-# Portfolio_Novo
-# Portfolio_Novo
-# Portfolio_Novo
-# Portfolio_Novo
+Portfolio under construction according to my progress in studies
+
