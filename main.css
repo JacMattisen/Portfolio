@@ -141,7 +141,7 @@ section div a:hover{
     transition: 0.7s;
 }
 .Projekt{
-    background: linear-gradient(to right, #e78ab9, rgb(12, 111, 204));
+    background: linear-gradient(to right, #e78ab9, rgb(224, 134, 107), rgb(50, 50, 235));
     padding-top: 50px;
     padding-bottom: 80px;
 }
@@ -160,7 +160,7 @@ section div a:hover{
 }
 .card{
     background-color: rgb(236, 183, 183);
-    height: 365px;
+    height: 465px;
     width: 335px;
     border-radius: 20px;
     padding: 20px 35px;
@@ -169,7 +169,7 @@ section div a:hover{
 
 .card:hover{
     transition: 0.5s;
-    background: linear-gradient(to right, rgb(12, 111, 204), #e78ab9);;
+    background: linear-gradient(to right, rgb(12, 111, 204), #e78ab9);
     border: 8px solid #4c005c;
 }
 
@@ -180,7 +180,7 @@ section div a:hover{
 .card h5{
     color: rgb(10, 10, 10);
     font-size: 24px;
-    font: bold;
+    margin-top: 20px;
 }
 .card p{
     color: rgb(8, 8, 8);
